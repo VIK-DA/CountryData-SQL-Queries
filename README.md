@@ -2,6 +2,9 @@
 
 This repository contains SQL queries for analyzing the "CountryData" dataset, which includes various attributes related to different countries. These queries are designed to extract specific information and insights from the dataset.
 
+![image](https://github.com/VIK-DA/CountryData-SQL-Queries/assets/105585314/c04ae9a3-adf1-4699-ac96-d7946fab22d2)
+
+
 ## Queries
 
 Below is a list of SQL queries available in this repository:
@@ -45,7 +48,4 @@ Below is a list of SQL queries available in this repository:
 2. Load the "CountryData" dataset into your SQL database.
 3. Open your SQL client and execute the desired queries from the provided `.sql` files.
 
-## Contributing
-
-Contributions to improve or extend the existing queries are welcome! Please fork this repository, create a new branch, make your changes, and submit a pull request.
 
